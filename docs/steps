@@ -1,10 +1,10 @@
 Steps :
--> Schema design 
--> Data extraction and loading 
--> Data cleaning 
--> EDA 
--> Business Logic 
--> Simulation 
--> Optimization & Testing 
--> Dashboarding 
--> Deployment
+-> Schema design [SQL/ETL]
+-> Data extraction and loading [SQL/Python]
+-> Data cleaning [Python/SQL/Excel]
+-> EDA [SQL]
+-> Business Logic [SCM]
+-> Simulation [Python]
+-> Optimization & Testing [Python]
+-> Dashboarding [PowerBI]
+-> Deployment [SQL/ETL]

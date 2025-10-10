@@ -1,8 +1,8 @@
 import pandas as pd
 import os
 
-RAW_PATH = "C:\\Users\hp\Desktop\Inventory-Optimization-Project\data\\raw"
-PROCESSED_PATH = "C:\\Users\hp\Desktop\Inventory-Optimization-Project\data\processed"
+RAW_PATH = "data/raw/"               #add appropriate raw data path
+PROCESSED_PATH = "data/processed/"   #add appropriate processed data path
 
 def load_excel(file_name):
     path = os.path.join(RAW_PATH, file_name)

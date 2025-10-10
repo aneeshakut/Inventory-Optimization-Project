@@ -17,3 +17,14 @@ Stages :
 | Storage            | SQL (PostgreSQL / SQLite)     | Later integration      |
 | Visualization      | Power BI                      | KPI dashboards         |
 | Modeling           | Python (NumPy, Pandas, SciPy) | EOQ, ROP, simulation   |
+
+Step 1 :
+| Step | What You’ll Do               | Purpose                                       |
+| ---- | ---------------------------- | --------------------------------------------- |
+| 1    | Read all Excel sheets        | Load data into memory                         |
+| 2    | Verify schema                | Expected columns exist, correct dtypes        |
+| 3    | Primary key checks           | Unique SKU, Supplier_ID, etc.                 |
+| 4    | Foreign key checks           | Products → Suppliers, Warehouses              |
+| 5    | Missing / null checks        | Detect incomplete data                        |
+| 6    | Basic descriptive validation | Range checks (cost > 0, lead time reasonable) |
+| 7    | Export clean CSVs            | Save to `/data/processed/`                    |

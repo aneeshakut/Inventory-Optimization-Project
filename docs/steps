@@ -8,3 +8,12 @@ Steps :
 -> Optimization & Testing [Python]
 -> Dashboarding [PowerBI]
 -> Deployment [SQL/ETL]
+
+Stages :
+| Stage              | Tool                          | Purpose                |
+| ------------------ | ----------------------------- | ---------------------- |
+| Data creation      | Excel / Google Sheets         | Initial tables         |
+| Validation & joins | Power Query or Python Pandas  | Combine and clean data |
+| Storage            | SQL (PostgreSQL / SQLite)     | Later integration      |
+| Visualization      | Power BI                      | KPI dashboards         |
+| Modeling           | Python (NumPy, Pandas, SciPy) | EOQ, ROP, simulation   |

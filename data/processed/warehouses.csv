@@ -1,0 +1,6 @@
+Warehouse_ID,Warehouse_Name,Location,Storage_Capacity_Units
+W01,Warehouse_1,Chennai,37734
+W02,Warehouse_2,Bangalore,33173
+W03,Warehouse_3,Delhi,40403
+W04,Warehouse_4,Mumbai,10785
+W05,Warehouse_5,Kolkata,16139

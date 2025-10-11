@@ -1,0 +1,11 @@
+Supplier_ID,Supplier_Name,Lead_Time_Days_Avg,Lead_Time_Days_StdDev,Reliability_Score,MOQ
+S01,Supplier_1,6,1,0.93,156
+S02,Supplier_2,16,2,0.86,100
+S03,Supplier_3,7,4,0.87,99
+S04,Supplier_4,15,1,0.99,55
+S05,Supplier_5,19,4,0.88,108
+S06,Supplier_6,19,2,0.99,174
+S07,Supplier_7,15,4,0.92,192
+S08,Supplier_8,18,4,0.87,79
+S09,Supplier_9,15,4,0.86,171
+S10,Supplier_10,5,4,0.88,174

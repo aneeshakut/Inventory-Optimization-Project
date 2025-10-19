@@ -112,39 +112,12 @@ This script automatically:
 
 ---
 
-## 📈 Sample Dashboard Output  
-
-**📍 Dashboard Preview:**  
-The summary dashboard contains real-value KPIs and selected visuals from EDA and Simulation steps.
-
-**KPIs include:**  
-- 📦 Total SKUs  
-- 📊 Average Weekly Demand  
-- ⚙️ Average Inventory per SKU  
-- ⏱️ Average Supplier Lead Time  
-- 📈 Average EOQ  
-- 🧩 Fill Rate  
-
-**Final output file:**  
-```
-dashboards/final_results/dashboard_summary.png
-```
-
----
-
 ## 💡 Insights Derived  
 
 - EOQ model shows significant ordering efficiency improvements for high-volume SKUs.  
 - Lead time variability strongly impacts reorder levels and safety stock needs.  
 - Simulation highlights how small demand shifts affect service levels and stockouts.  
 - Dashboard consolidates EDA and simulation metrics for instant decision support.  
-
----
-
-## 📬 Author  
-**👩‍💻 Aneesha Kutty**  
-Data Analytics & Supply Chain Enthusiast  
-🔗 [GitHub Profile](https://github.com/aneeshakut)  
 
 ---
 

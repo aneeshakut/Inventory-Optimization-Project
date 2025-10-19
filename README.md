@@ -150,5 +150,3 @@ ipython
 ✅ PNG snapshot for reporting & sharing  
 
 ---
-
-> 🧠 *"Transforming supply chain data into strategic inventory decisions — powered by Python."*
